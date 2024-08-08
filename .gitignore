@@ -1,0 +1,3 @@
+*.sqlite
+.venvs
+__pycache__
